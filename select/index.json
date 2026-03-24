@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "melody",
+  "base_artist": "BAL",
+  "createdAt": "2026-03-24T07:22:58.666230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melody Dean",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/01_Melody_Dean_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Melody Dean",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": false,
+      "path": "select/02_Melody_Dean_Amanda_Palmer_&_The_Grand_Theft_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Is The Melody",
+      "artist": "Iris DeMent",
+      "has_synced": true,
+      "path": "select/03_Sweet_Is_The_Melody_Iris_DeMent.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Space Melody (Edward Artemyev) (feat. Leony)",
+      "artist": "VIZE feat. Alan Walker, Edward Artemyev & Leony",
+      "has_synced": true,
+      "path": "select/04_Space_Melody_(Edward_Artemyev)_(feat._Leony)_VIZE_feat._Alan_Walker,_Edward_Artemyev_&_Leony.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Space Melody (Edward Artemyev)",
+      "artist": "Vize",
+      "has_synced": true,
+      "path": "select/05_Space_Melody_(Edward_Artemyev)_Vize.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goodbye Melody Rose",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/06_Goodbye_Melody_Rose_方大同.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Melody",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/07_Melody_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melody",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/08_Melody_陶喆.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Morning Melody",
+      "artist": "Lullatone",
+      "has_synced": false,
+      "path": "select/09_Good_Morning_Melody_Lullatone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Timeless Melody",
+      "artist": "The La's",
+      "has_synced": true,
+      "path": "select/10_Timeless_Melody_The_La's.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Sentimental Melody",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/11_My_Sentimental_Melody_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Inner Flight - Hackney Studio Vocal Melody",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/12_Inner_Flight_-_Hackney_Studio_Vocal_Melody_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ballad of Melody Nelson",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/13_The_Ballad_of_Melody_Nelson_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sweetest Melody",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/14_The_Sweetest_Melody_Me_&_My.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "melody (feat. z²)",
+      "artist": "BAL",
+      "has_synced": false,
+      "path": "select/pl_01_melody_(feat._z2)_BAL.txt"
+    }
+  ]
+}
